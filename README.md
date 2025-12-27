@@ -1,25 +1,29 @@
-## Hi 👋, I'm Vicky Kumar
-## A passionate MERN Stack Developer from India, crafting modern web solutions
-## 💬 Ask me about MERN Stack, React, Next.js, Node.js, MongoDB, SQL, and modern web development
+# Hi 👋, I'm Vicky Kumar
 
-## 💻 MERN Stack Developer
+### A passionate MERN Stack Developer from India  
+Crafting modern, scalable, and user-focused web solutions.
 
-## 🛠️ Languages and Tools
+---
+
+## 💻 About Me
+- MERN Stack Developer with hands-on experience in building full-stack web applications  
+- Strong foundation in React, Next.js, Node.js, and MongoDB  
+- Focused on clean code, performance, and modern web practices  
+
+💬 **Ask me about:**  
+MERN Stack, React, Next.js, Node.js, MongoDB, SQL, and modern web development
+
+---
+
+## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,html,css,git,github,websocket,java,c,vscode,postman" />
 </p>
 
-<!--
-**vickykushvaha/vickykushvaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
+- Building scalable MERN & Next.js applications  
+- Improving backend performance and API design  
+- Exploring advanced full-stack development concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
