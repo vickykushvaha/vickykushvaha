@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Vicky Kumar
+## A passionate MERN Stack Developer from India, crafting modern web solutions
+## 💬 Ask me about MERN Stack, React, Next.js, Node.js, MongoDB, SQL, and modern web development
+
+## 💻 MERN Stack Developer
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github" />
+</p>
 
 <!--
 **vickykushvaha/vickykushvaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
